@@ -12,7 +12,7 @@ BrainJuice - Design System
 https://www.figma.com/file/ivBUx8YKNRtX0r4ggv5c68/BrainJuice-Design-System
 ```
 
-#### Style Disctionary
+#### Style Dictionary - Resources
 
 - [ ] [Overview](https://amzn.github.io/style-dictionary/#/README)
 - [ ] [Quick Start](https://amzn.github.io/style-dictionary/#/quick_start)
@@ -31,3 +31,22 @@ https://www.figma.com/file/ivBUx8YKNRtX0r4ggv5c68/BrainJuice-Design-System
 - [ ] [Formats](https://amzn.github.io/style-dictionary/#/formats)
 - [ ] [Templates](https://amzn.github.io/style-dictionary/#/templates)
 - [ ] [Actions](https://amzn.github.io/style-dictionary/#/actions)
+
+#### Style Dictionary - WordCloud
+
+- System to define styles once.
+- CLI
+- DEMO
+- Style Properties
+- Configuration
+- Documentation Website
+- Install (global)
+- Create new project
+- Build
+- Node
+- Config.json
+- SCSS
+- Properties (Design Tokens)
+- Category / Type / Item / Sub-Item / State
+- Extending
+- Tokens
