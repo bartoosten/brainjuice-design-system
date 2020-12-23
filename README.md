@@ -32,6 +32,11 @@ https://www.figma.com/file/ivBUx8YKNRtX0r4ggv5c68/BrainJuice-Design-System
 - [ ] [Templates](https://amzn.github.io/style-dictionary/#/templates)
 - [ ] [Actions](https://amzn.github.io/style-dictionary/#/actions)
 
+###### More
+
+- https://blog.prototypr.io/design-tokens-with-figma-aef25c42430f#a060
+- https://www.figma.com/community/plugin/888356646278934516/Design-Tokens
+
 #### Style Dictionary - WordCloud
 
 - System to define styles once.
@@ -50,3 +55,15 @@ https://www.figma.com/file/ivBUx8YKNRtX0r4ggv5c68/BrainJuice-Design-System
 - Category / Type / Item / Sub-Item / State
 - Extending
 - Tokens
+
+###### 3 Parts
+
+1. Style properties in JSON files (Design Tokens)
+2. Status assets organized into folders
+3. Configuration (defining transformation of the properties and assets for each output platform)
+
+###### Examples
+
+- [Basic](https://github.com/amzn/style-dictionary/tree/master/examples/basic)
+- [Complete](https://github.com/amzn/style-dictionary/tree/master/examples/complete)
+- [Advances](https://github.com/amzn/style-dictionary/tree/master/examples/advanced)
